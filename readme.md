@@ -17,7 +17,7 @@ On a mac, initially:
 Then to begin a session:
 * cd to the root of the local clone
 * run "git pull" to get other people's changes
-* run Autoplot, loading data from the local clone
+* run Autoplot, loading data from the local repo
 * run "git commit" to commit your changes.
 * run "git pull" before committing your changes.  Note any messages about conflicts where the same region has been modified by another.
 * run "git push" to push your changes up to the repository.
