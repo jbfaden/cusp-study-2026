@@ -31,6 +31,7 @@ saved and everyone can see them.
 |---|---|---|---|---|---|---|---|
 
 | Column | Name | Comment |
+| ------ | ---- | ------- |
 | 0 | ROI | The ROI identifier like ROI_03309_1 |
 | 1 | Type | spacial, temporal, ambigous, or empty for no identified event |
 | 2 | ACI1_Time | Timetag for ACI 1 |
