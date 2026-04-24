@@ -1,11 +1,10 @@
 This is to prototype a cusp study where cusps are ID'd and digitized across multiple institutions.
 Data is stored by ROI id, with the file:
 
-* 2025/cusp_crossings.csv
+* 2023/03/cusp_crossings_2026_03.csv
 
 and the files:
-* 2025/ROI_01212_1.csv
-* 2026/ROI_02405_1.csv
+* 2026/03/ROI_03309_1.csv
 
 # Contributing to the files 
 Ideally the scientists will make a clone of this area and then use Autoplot to modify
@@ -26,3 +25,5 @@ Then to begin a session:
 
 Last the scientist should review the changes on github (https://github.com/jbfaden/cusp-study-2026/) to ensure changes are 
 saved and everyone can see them.
+
+
