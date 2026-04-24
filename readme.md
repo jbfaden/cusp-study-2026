@@ -26,4 +26,17 @@ Then to begin a session:
 Last the scientist should review the changes on github (https://github.com/jbfaden/cusp-study-2026/) to ensure changes are 
 saved and everyone can see them.
 
+# Cusp crossings file format
+| ROI  | Type | ACI1 Time  | ACI1 MLat | ACI2 Time  | ACI2 MLat | &Delta;T |  &Delta;MLat |
+|---|---|---|---|---|---|---|---|
+
+| Column | Name | Comment |
+| 0 | ROI | The ROI identifier like ROI_03309_1 |
+| 1 | Type | spacial, temporal, ambigous, or empty for no identified event |
+| 2 | ACI1_Time | Timetag for ACI 1 |
+| 3 | ACI1_MLat| MLat for ACI 1 |
+| 4 | ACI2_Time | Timetag for ACI 1 |
+| 5 | ACI2_MLat| MLat for ACI 2 |
+| 6 | delta_T | difference in time |
+| 7 | delta_MLat | difference in time |
 
